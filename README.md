@@ -22,3 +22,5 @@ discredit our intuitions.
 But Godel has somehow proved that symbols cannot always provide both a
 consistent and complete system of meaning.  And that is a very good example of
 the fallibility of our intuition.
+
+![](graph0.png)
